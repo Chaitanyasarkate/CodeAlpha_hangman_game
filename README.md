@@ -116,8 +116,7 @@ You can add a demo GIF or screenshot here:
 Chaitanya Sarkate:
 📧 sarkatechaitanya02@gmail.com
 
-🌐 GitHub Profile:
-
+🌐 GitHub Profile: https://github.com/Chaitanyasarkate
 
 
 
