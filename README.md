@@ -32,8 +32,11 @@ It’s a beginner-friendly project demonstrating Python basics like loops, condi
 
 ## 📂 Project Structure
 hangman_game/
+
 │
+
 ├── hangman_game.py       # Main game script
+
 └── README.md             # Project documentation
 
 
@@ -41,17 +44,19 @@ hangman_game/
 
 ## 🚀 How to Run
 1. Clone this repository:
+   
    ```bash
    
    git clone https://github.com/Chaitanyasarkate/CodeAlpha_hangman_game.git
 
-2. Navigate to the folder:
+3. Navigate to the folder:
    
 cd CodeAlpha_hangman_game
 
 3.Run the game:
 
 python hangman_game.py
+
 
 🕹️ How to Play
 
@@ -64,6 +69,7 @@ The program randomly selects a secret word.
 3.You win if you guess all letters before running out of attempts.
 
 4.You lose if you reach 0 attempts.
+
 
 🧩 Example Gameplay
 
@@ -80,42 +86,44 @@ Enter a letter: a
 
 📚 Concepts Used
 
-random.choice() for word selection
+-random.choice() for word selection
 
-while loops for the game flow
+-while loops for the game flow
 
-if-else conditions for input validation
+-if-else conditions for input validation
 
-String and list manipulation
+-String and list manipulation
 
-User input handling
+-User input handling
 
 
 💡 Future Improvements
 
-🔄 Add replay option after each game
+-🔄 Add replay option after each game
 
-🎚️ Include difficulty levels (easy, medium, hard)
+-🎚️ Include difficulty levels (easy, medium, hard)
 
-🎨 Display a Hangman ASCII art
+-🎨 Display a Hangman ASCII art
 
-📂 Read words from an external file
+-📂 Read words from an external file
 
-🏆 Track player score and best attempts
+-🏆 Track player score and best attempts
 
-🌐 Add GUI version with Tkinter or Pygame
+-🌐 Add GUI version with Tkinter or Pygame
+
 
 📸 Demo
 
 You can add a demo GIF or screenshot here:
 
-![Hangman Demo](<img width="1366" height="768" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/641c6ddd-4fc2-4c17-bb2e-91bc9cb9c351" />)
+![Hangman Demo](<img width="1366" height="768" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/eddd0dce-7636-4dc5-a657-97e524aa8e33" />
+)
 
 👨‍💻 Author
 
-Chaitanya Sarkate:
-📧 sarkatechaitanya02@gmail.com
+-Chaitanya Sarkate:
 
+📧 sarkatechaitanya02@gmail.com
 🌐 GitHub Profile: https://github.com/Chaitanyasarkate
 
 
