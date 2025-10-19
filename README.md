@@ -25,6 +25,7 @@ It’s a beginner-friendly project demonstrating Python basics like loops, condi
 ---
 
 ## 🧰 Technologies Used
+
 - **Python 3.x**  
 - Built-in modules: `random`
 
@@ -43,19 +44,21 @@ hangman_game/
 ---
 
 ## 🚀 How to Run
+
 1. Clone this repository:
    
    ```bash
    
    git clone https://github.com/Chaitanyasarkate/CodeAlpha_hangman_game.git
+   
 
 3. Navigate to the folder:
    
-cd CodeAlpha_hangman_game
+   cd CodeAlpha_hangman_game
 
 3.Run the game:
 
-python hangman_game.py
+   python hangman_game.py
 
 
 🕹️ How to Play
@@ -74,15 +77,22 @@ The program randomly selects a secret word.
 🧩 Example Gameplay
 
 🎯 Welcome to Hangman Game!
+
 Guess the word letter by letter.
+
 You have 6 incorrect attempts allowed.
 
 Word:  _ _ _ _ _ _
+
 Attempts left: 6
+
 Guessed letters: 
 
 Enter a letter: a
+
 ✅ Good job! That letter is in the word.
+
+
 
 📚 Concepts Used
 
@@ -116,7 +126,7 @@ Enter a letter: a
 
 You can add a demo GIF or screenshot here:
 
-![Hangman Demo](<img width="1366" height="768" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/eddd0dce-7636-4dc5-a657-97e524aa8e33" />
+![Hangman Demo](file:///C:/Users/sarka/Pictures/Screenshots/Screenshot%20(102).png
 )
 
 👨‍💻 Author
@@ -124,6 +134,7 @@ You can add a demo GIF or screenshot here:
 -Chaitanya Sarkate:
 
 📧 sarkatechaitanya02@gmail.com
+
 🌐 GitHub Profile: https://github.com/Chaitanyasarkate
 
 
