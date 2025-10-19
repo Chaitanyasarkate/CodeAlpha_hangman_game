@@ -36,7 +36,7 @@ Copy code
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/Chaitanyasarkate/CodeAlpha_hangman_game.git
 Navigate to the folder:
 
 bash
