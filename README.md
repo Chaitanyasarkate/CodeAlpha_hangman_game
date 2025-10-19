@@ -123,9 +123,6 @@ Enter a letter: a
 
 
 📸 Demo
-
-You can add a demo GIF or screenshot here:
-
 ![Hangman Demo](file:///C:/Users/sarka/Pictures/Screenshots/Screenshot%20(102).png
 )
 
