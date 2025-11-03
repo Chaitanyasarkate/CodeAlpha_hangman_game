@@ -124,7 +124,7 @@ Enter a letter: a
 
 📸 Demo
 ![Hangman Demo]
-(<img width="1366" height="768" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/b25e0c8f-76f3-44dc-8fff-74cce26a87e4" />
+(<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bd9bcef0-8248-4e83-8e0a-f3408f3e9e12" />
 <img width="1366" height="768" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/f59003db-9e12-4564-83db-8df30519ccaf" />
 )
 
