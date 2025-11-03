@@ -124,7 +124,9 @@ Enter a letter: a
 
 📸 Demo
 ![Hangman Demo]
-(file:///C:/Users/sarka/Pictures/Screenshots/Screenshot%20(107).png)
+(<img width="1366" height="768" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/b25e0c8f-76f3-44dc-8fff-74cce26a87e4" />
+<img width="1366" height="768" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/f59003db-9e12-4564-83db-8df30519ccaf" />
+)
 
 👨‍💻 Author
 
