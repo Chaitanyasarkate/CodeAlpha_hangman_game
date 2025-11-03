@@ -1,7 +1,9 @@
 import random
 
+
 # List of predefined words
 words = ["python", "computer", "hangman", "program", "developer"]
+
 
 # Choose a random word from the list
 word_to_guess = random.choice(words)
@@ -48,4 +50,5 @@ if "_" not in guessed_word:
     print(f"🎉 Congratulations! You guessed the word: {word_to_guess}")
 else:
     print(f"😢 Game Over! The word was: {word_to_guess}")
+
 
