@@ -123,7 +123,7 @@ Enter a letter: a
 
 
 📸 Demo
-![Hangman Demo](file:///C:/Users/sarka/Pictures/Screenshots/Screenshot%20(102).png
+![Hangman Demo](<img width="765" height="734" alt="image" src="https://github.com/user-attachments/assets/bf74b3a9-59f5-4f2c-a1b8-5237309bd5ca" />
 )
 
 👨‍💻 Author
