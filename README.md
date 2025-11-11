@@ -7,6 +7,7 @@
 ---
 
 ## 🎯 Project Overview
+
 This is a **simple text-based Hangman game** built using **Python**.  
 The player guesses a hidden word one letter at a time, with only **6 incorrect guesses allowed**.  
 
@@ -15,6 +16,7 @@ It’s a beginner-friendly project demonstrating Python basics like loops, condi
 ---
 
 ## 🧠 Key Features
+
 - 🎲 Random word selection from a predefined list  
 - 📝 Tracks guessed letters and attempts left  
 - 🚫 6 incorrect guesses allowed before losing  
@@ -32,6 +34,7 @@ It’s a beginner-friendly project demonstrating Python basics like loops, condi
 ---
 
 ## 📂 Project Structure
+
 hangman_game/
 
 │
